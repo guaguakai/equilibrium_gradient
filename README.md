@@ -1,4 +1,4 @@
-This is the implementation of "Coordinating Followers to Reach Better Equilibria: End-to-End Gradient Descent for Stackelberg Games" submitted to NeurIPS 2021 with paper ID: 3668. In this folder, you can find three different subfolders, `qre`, `ssg`, and `cyber`, which refer to three examples presented in the paper.
+This is the implementation of ["Coordinating Followers to Reach Better Equilibria: End-to-End Gradient Descent for Stackelberg Games"](https://teamcore.seas.harvard.edu/files/teamcore/files/stackelberg_games_multiple_followers_Wang_AAAI2022) by Kai Wang, Lily Xu, Andrew Perrault, Michael K. Reiter, and Milind Tambe published at AAAI 2022. In this repository, you can find three different subfolders, `qre`, `ssg`, and `cyber`, which refer to three examples presented in the paper.
 
 All methods are implemented in Python3.6, where a list of the dependency can be found in `package-list.txt`.
 
